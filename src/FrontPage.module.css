@@ -1,0 +1,32 @@
+.hOne {position: relative;
+    text-align: center;
+  }
+ 
+  body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+  }
+
+  .app1{
+    position: absolute;
+    color: inherit;
+    position: absolute;
+    left:20%;
+  }
+
+  .notesEmo{
+    
+    font-size: 30px;
+
+    text-decoration: none;
+  }
+  .sites{
+    position: relative;
+    background-color: beige;
+    width:500px;
+    height: 500px;
+    left:25%;
+  }

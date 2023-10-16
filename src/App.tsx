@@ -1,10 +1,10 @@
 import './App.css'
-
+import {FrontPage} from './FrontPage'
 function App() {
 
   return (
     <>
-      <h1> Srinidhi's Portfolio </h1>
+      <FrontPage/>
     </>
   )
 }
